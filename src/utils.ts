@@ -17,13 +17,13 @@ export function onResize(fn: () => void) {
 
 export const projects = [
   {
-    title: 'Jira Clone',
-    img_sd: '/assets/jira-sd.webp',
-    img_hd: '/assets/jira-hd.webp',
-    img_2k: '/assets/jira-2k.webp',
-    descr: 'A minimalist replica of the Jira issue tracking software',
-    uri: 'https://jira-replica.vercel.app/',
-    source: 'https://github.com/lyn-eva/jira-clone',
+    title: 'Linux Virtual Machine',
+    img_sd: '/assets/linux.png',
+    img_hd: '/assets/linux.png',
+    img_2k: '/assets/linux.png',
+    descr: 'Personal portfolio website simulating Ubuntu 20.04, made using NEXT.js & tailwind CSS',
+    uri: 'https://linux-virtual-machine-iota.vercel.app/',
+    source: 'https://github.com/giorgiprogrammer/Linux-VirtualMachine',
   },
   {
     img_sd: '/assets/ytr-sd.webp',
