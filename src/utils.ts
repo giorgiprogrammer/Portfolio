@@ -35,13 +35,13 @@ export const projects = [
     source: 'https://github.com/giorgiprogrammer/E-commerce-React',
   },
   {
-    img_sd: '/assets/sutakku-sd.webp',
-    img_hd: '/assets/sutakku-hd.webp',
-    img_2k: '/assets/sutakku-2k.webp',
+    img_sd: '/assets/lapetite.png',
+    img_hd: '/assets/lapetite.png',
+    img_2k: '/assets/lapetite.png',
     title: 'Sutakku',
     descr: 'A task tracker for developer working with GitHub',
-    uri: 'https://sutakku.netlify.app/',
-    source: 'https://github.com/lyn-eva/Sutakku',
+    uri: 'https://lapetitealice.com/',
+    source: 'https://github.com/giorgiprogrammer?tab=repositories',
   },
   {
     img_sd: '/assets/quizu-sd.webp',
